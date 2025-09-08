@@ -1,2 +1,2 @@
 #!/bin/bash
-lilypond -dbackend=eps -dresolution=600 -dcrop --png src/repetition.ly
+lilypond -dbackend=eps -dresolution=600 -dcrop --png src/kompnotation.ly
